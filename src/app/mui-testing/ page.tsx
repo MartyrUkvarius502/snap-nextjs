@@ -1,7 +1,5 @@
 // src/app/mui-testing/page.tsx
 
-import Typography from "@mui/material/Typography";
-import Container from "@mui/material/Container";
 import * as React from 'react';
 import Radio from '@mui/material/Radio';
 import RadioGroup from '@mui/material/RadioGroup';
